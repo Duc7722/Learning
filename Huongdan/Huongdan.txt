@@ -1,0 +1,19 @@
+*   Phím tắt:
+! + Tap/Enter   = Cấu trúc tiêu chuẩn html
+Ctrl + K + C    = Comment
+Ctrl + K + U    = UnComment
+Alt + Shift + down  = Copy/Paste below
+Alt = Giữ con trỏ chuột
+ul>li*5{phần tử số $}
+
+*   Extentions:
+Prettier:   Install -> Setting -> Default Formatter, Format On Save, Auto Save
+VScode Icon
+Image Preview
+Color Highlight
+Auto Rename Tag
+Live Server/Live Preview
+Code Spell Checker (Vietnamese):    Setting -> Open Setting (JSON) -> "cSpell.language": "en,vi"
+htmltagwrap:    Alt + W
+HTML to CSS autocompletion
+indent-rainbow
